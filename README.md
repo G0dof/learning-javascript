@@ -1,1 +1,1 @@
-# learning-javascript
+# Learning Java in university
