@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 18pt;
+}
+
+form * {
+    margin-top: 5px;
+}
+
+form {
+    margin: 0 auto;
+    padding: 30px;
+    width: 400px;
+    border: 22px double #f00;
+}
+
+input[type="text"] {
+    font-size: 18pt;
+    border: 1px solid #000;
+    background-color: #ff0;
+}
+
+.calc {
+    display: block;
+}
+
+.caps {
+    text-transform: uppercase;
+}
