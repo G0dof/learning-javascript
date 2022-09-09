@@ -1,5 +1,5 @@
 alert("Mensagem")
 
-confirm("Você é gay?", )
+confirm("Você é humano?", )
 
 prompt("Digite seu nome: ", "Digite aqui...")
