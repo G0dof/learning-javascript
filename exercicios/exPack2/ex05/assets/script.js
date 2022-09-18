@@ -27,7 +27,7 @@ switch (tipoPagamento) {
     case "3":
         document.write(
             `<p>Com o pagamento no débito, você pagará R$${
-                valor - valor * 0.1
+                valor + valor * 0.1
             } reais</p>`
         );
         break;
@@ -35,7 +35,7 @@ switch (tipoPagamento) {
     case "4":
         document.write(
             `<p>Com o pagamento no cheque, você pagará R$${
-                valor - valor * 0.5
+                valor + valor * 0.5
             } reais</p>`
         );
         break;
