@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+* {
+    font-family: 'Gloria Hallelujah', cursive;
+    scroll-behavior: smooth;
+}
+
+body{
+    background: url(https://th.bing.com/th/id/R.abb64af8cb6a57015fcd9e016fb43955?rik=4jb8MMRZaMTovg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fZWb1ZEQ.jpg&ehk=9bk9QWuvtS7LCt49NBH6NiQWcXXVyw7PpYoSkamIAY8%3d&risl=&pid=ImgRaw&r=0) no-repeat 0, 0 #3F334D;
+    background-size: 150%;
+    background-blend-mode: exclusion;
+}
+
+.container {
+    background-color: #EFE7DA;
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.4) -5px 5px, rgba(54, 19, 41, 0.3) -10px 10px, rgba(29, 23, 27, 0.2) -15px 15px, rgba(31, 22, 27, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+
+p {
+    font-size: 25px;
+}
+
+button {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    font-size: 20px;
+}
+
+#resultado {
+    width: 400px;
+    margin: auto;
+}
