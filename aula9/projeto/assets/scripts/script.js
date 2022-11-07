@@ -1,4 +1,4 @@
-function random(min, max) {
+/* function random(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
@@ -206,16 +206,26 @@ const bd = `{
         }
     ]
 }`;
+ */
 
-function exibirAlunos() {
-    const objs = JSON.parse(bd);
+fetch(url).then((response) => {
+    response.json().then((data) => {
+        console.log(data);
+        exibirAlunos(data.alunos);
+    });
+});
+
+function exibirAlunos(data) {
+    const objs = JSON.parse(data);
 
     let resultado = document.getElementById("resultado");
 
     objs.alunos.forEach((element) => {
         let status = "";
         media =
-            (element.avaliacaoParcial + element.exercicio + element.avaliacaoRegimental);
+            element.avaliacaoParcial +
+            element.exercicio +
+            element.avaliacaoRegimental;
         if (media >= 6) status = "<br>Aprovado";
         else if (media >= 2 && media < 6) status = "<br>Avaliação Final";
         else if (media < 2) status = "<br>Reprovado";

@@ -1,0 +1,204 @@
+{
+    "alunos": [
+        {
+            "nome": "Ronaldo",
+            "rgm": 123,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Caio.jpg"
+        },
+        {
+            "nome": "Messi",
+            "rgm": 299,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Joao.jpg"
+        },
+        {
+            "nome": "Neymar",
+            "rgm": 456,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Felipe.jpg"
+        },
+        {
+            "nome": "Roger",
+            "rgm": 976,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Gabriel.jpg"
+        },
+        {
+            "nome": "Iniesta",
+            "rgm": 567,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Tiago.jpg"
+        },
+        {
+            "nome": "Silvio",
+            "rgm": 263,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Mario.jpg"
+        },
+        {
+            "nome": "Andrey",
+            "rgm": 290,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Osmar.jpg"
+        },
+        {
+            "nome": "Pedro",
+            "rgm": 452,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Roberto.jpg"
+        },
+        {
+            "nome": "Gabriel",
+            "rgm": 356,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Silvio.jpg"
+        },
+        {
+            "nome": "Carlos",
+            "rgm": 436,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Valdir.jpg"
+        },
+        {
+            "nome": "Lara",
+            "rgm": 323,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Andreia.jpg"
+        },
+        {
+            "nome": "Bruna",
+            "rgm": 599,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Cleide.jpg"
+        },
+        {
+            "nome": "Julius",
+            "rgm": 459,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Cris.jpg"
+        },
+        {
+            "nome": "Fernanda",
+            "rgm": 156,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Dilma.jpg"
+        },
+        {
+            "nome": "Vanessa",
+            "rgm": 906,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Gabriela.jpg"
+        },
+        {
+            "nome": "Gabriela",
+            "rgm": 103,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Julia.jpg"
+        },
+        {
+            "nome": "Bianca",
+            "rgm": 209,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Juliana.jpg"
+        },
+        {
+            "nome": "Beatriz",
+            "rgm": 856,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Maria.jpg"
+        },
+        {
+            "nome": "Daiane",
+            "rgm": 756,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Mariana.jpg"
+        },
+        {
+            "nome": "Franciele",
+            "rgm": 556,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Patricia.jpg"
+        },
+        {
+            "nome": "Ana",
+            "rgm": 223,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Sonia.jpg"
+        },
+        {
+            "nome": "Rayssa",
+            "rgm": 399,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Veronica.jpg"
+        },
+        {
+            "nome": "Laiane",
+            "rgm": 159,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Vitoria.jpg"
+        },
+        {
+            "nome": "Clóvis",
+            "rgm": 151,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Vitor.jpg"
+        },
+        {
+            "nome": "Bob",
+            "rgm": 152,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
+            "img": "img/Fabricio.jpg"
+        }
+    ]
+}
