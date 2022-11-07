@@ -6,7 +6,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 2,
             "avaliacaoRegimental": 2,
-            "img": "../imgs/Caio.jpg"
+            "img": "../../imgss/Caio.jpg"
         },
         {
             "nome": "Messi",
@@ -14,7 +14,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 1,
             "avaliacaoRegimental": 5,
-            "img": "../imgs/Joao.jpg"
+            "img": "../../imgss/Joao.jpg"
         },
         {
             "nome": "Neymar",
@@ -22,7 +22,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 0,
             "avaliacaoRegimental": 4,
-            "img": "../imgs/Felipe.jpg"
+            "img": "../../imgss/Felipe.jpg"
         },
         {
             "nome": "Roger",
@@ -30,7 +30,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 1,
             "avaliacaoRegimental": 1,
-            "img": "../imgs/Gabriel.jpg"
+            "img": "../../imgss/Gabriel.jpg"
         },
         {
             "nome": "Iniesta",
@@ -38,7 +38,7 @@
             "avaliacaoParcial": 1,
             "exercicio": 1,
             "avaliacaoRegimental": 1,
-            "img": "../imgs/Tiago.jpg"
+            "img": "../../imgss/Tiago.jpg"
         },
         {
             "nome": "Silvio",
@@ -46,7 +46,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 0,
             "avaliacaoRegimental": 5,
-            "img": "../imgs/Mario.jpg"
+            "img": "../../imgss/Mario.jpg"
         },
         {
             "nome": "Andrey",
@@ -54,7 +54,7 @@
             "avaliacaoParcial": 0,
             "exercicio": 0,
             "avaliacaoRegimental": 4,
-            "img": "../imgs/Osmar.jpg"
+            "img": "../../imgss/Osmar.jpg"
         },
         {
             "nome": "Pedro",
@@ -62,7 +62,7 @@
             "avaliacaoParcial": 0,
             "exercicio": 1,
             "avaliacaoRegimental": 3,
-            "img": "../imgs/Roberto.jpg"
+            "img": "../../imgss/Roberto.jpg"
         },
         {
             "nome": "Gabriel",
@@ -78,7 +78,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 1,
             "avaliacaoRegimental": 0,
-            "img": "../imgs/Valdir.jpg"
+            "img": "../../imgss/Valdir.jpg"
         },
         {
             "nome": "Lara",
@@ -86,14 +86,14 @@
             "avaliacaoParcial": 0,
             "exercicio": 1,
             "avaliacaoRegimental": 2,
-            "img": "../imgs/Andreia.jpg"
+            "img": "../../imgss/Andreia.jpg"
         },
         {
             "nome": "Bruna",
             "rgm": 599,
-            "avaliacaoParcial": 2,
-            "exercicio": 0,
-            "avaliacaoRegimental": 5,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Cleide.jpg"
         },
         {
@@ -108,72 +108,72 @@
             "nome": "Fernanda",
             "rgm": 156,
             "avaliacaoParcial": 3,
-            "exercicio": 1,
-            "avaliacaoRegimental": 5,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Dilma.jpg"
         },
         {
             "nome": "Vanessa",
             "rgm": 906,
-            "avaliacaoParcial": 1,
-            "exercicio": 0,
-            "avaliacaoRegimental": 1,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Gabriela.jpg"
         },
         {
             "nome": "Gabriela",
             "rgm": 103,
-            "avaliacaoParcial": 0,
-            "exercicio": 1,
-            "avaliacaoRegimental": 1,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Julia.jpg"
         },
         {
             "nome": "Bianca",
             "rgm": 209,
-            "avaliacaoParcial": 0,
-            "exercicio": 0,
-            "avaliacaoRegimental": 0,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Juliana.jpg"
         },
         {
             "nome": "Beatriz",
             "rgm": 856,
-            "avaliacaoParcial": 0,
-            "exercicio": 0,
-            "avaliacaoRegimental": 1,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Maria.jpg"
         },
         {
             "nome": "Daiane",
             "rgm": 756,
-            "avaliacaoParcial": 0,
-            "exercicio": 1,
-            "avaliacaoRegimental": 5,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Mariana.jpg"
         },
         {
             "nome": "Franciele",
             "rgm": 556,
-            "avaliacaoParcial": 2,
-            "exercicio": 0,
-            "avaliacaoRegimental": 1,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Patricia.jpg"
         },
         {
             "nome": "Ana",
             "rgm": 223,
             "avaliacaoParcial": 3,
-            "exercicio": 1,
-            "avaliacaoRegimental": 5,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Sonia.jpg"
         },
         {
             "nome": "Rayssa",
             "rgm": 399,
             "avaliacaoParcial": 3,
-            "exercicio": 1,
-            "avaliacaoRegimental": 1,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Veronica.jpg"
         },
         {
@@ -187,17 +187,17 @@
         {
             "nome": "Clóvis",
             "rgm": 151,
-            "avaliacaoParcial": 2,
-            "exercicio": 0,
-            "avaliacaoRegimental": 2,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Vitor.jpg"
         },
         {
             "nome": "Bob",
             "rgm": 152,
-            "avaliacaoParcial": 2,
-            "exercicio": 1,
-            "avaliacaoRegimental": 1,
+            "avaliacaoParcial": 3,
+            "exercicio": 3,
+            "avaliacaoRegimental": 3,
             "img": "../imgs/Fabricio.jpg"
         }
     ]
