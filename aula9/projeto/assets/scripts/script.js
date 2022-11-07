@@ -208,21 +208,23 @@ const bd = `{
 }`;
  */
 
-const alunos = `https://raw.githubusercontent.com/G0dof/learning-javascript/main/aula9/projeto/assets/scripts/alunos.json`;
+function consultarAlunos() {
+    const alunos = `https://raw.githubusercontent.com/G0dof/learning-javascript/main/aula9/projeto/assets/scripts/alunos.json`;
 
-fetch(alunos).then((response) => {
-    response.json().then((data) => {
-        console.log(data);
-        exibirAlunos(data.alunos);
+    fetch(alunos).then((response) => {
+        response.json().then((data) => {
+            console.log(data);
+            exibirAlunos(data.alunos);
+        });
     });
-});
+}
 
 function exibirAlunos(data) {
-    const objs = JSON.parse(data);
+    const objs = data;
 
     let resultado = document.getElementById("resultado");
 
-    objs.alunos.forEach((element) => {
+    objs.forEach((element) => {
         let status = "";
         media =
             element.avaliacaoParcial +
