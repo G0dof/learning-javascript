@@ -210,7 +210,7 @@ const bd = `{
 
 const alunos = `https://raw.githubusercontent.com/G0dof/learning-javascript/main/aula9/projeto/assets/scripts/alunos.json`;
 
-fetch(url).then((response) => {
+fetch(alunos).then((response) => {
     response.json().then((data) => {
         console.log(data);
         exibirAlunos(data.alunos);
