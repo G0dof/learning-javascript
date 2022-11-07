@@ -10,7 +10,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Caio.jpg"
+            "img": "assets/imgs/Caio.jpg"
         },
         {
             "nome": "Messi",
@@ -18,7 +18,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Joao.jpg"
+            "img": "assets/imgs/Joao.jpg"
         },
         {
             "nome": "Neymar",
@@ -26,7 +26,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Felipe.jpg"
+            "img": "assets/imgs/Felipe.jpg"
         },
         {
             "nome": "Roger",
@@ -34,7 +34,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Gabriel.jpg"
+            "img": "assets/imgs/Gabriel.jpg"
         },
         {
             "nome": "Iniesta",
@@ -42,7 +42,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Tiago.jpg"
+            "img": "assets/imgs/Tiago.jpg"
         },
         {
             "nome": "Silvio",
@@ -50,7 +50,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Mario.jpg"
+            "img": "assets/imgs/Mario.jpg"
         },
         {
             "nome": "Andrey",
@@ -58,7 +58,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Osmar.jpg"
+            "img": "assets/imgs/Osmar.jpg"
         },
         {
             "nome": "Pedro",
@@ -66,7 +66,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Roberto.jpg"
+            "img": "assets/imgs/Roberto.jpg"
         },
         {
             "nome": "Gabriel",
@@ -74,7 +74,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Silvio.jpg"
+            "img": "assets/imgs/Silvio.jpg"
         },
         {
             "nome": "Carlos",
@@ -82,7 +82,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Valdir.jpg"
+            "img": "assets/imgs/Valdir.jpg"
         },
         {
             "nome": "Lara",
@@ -90,7 +90,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Andreia.jpg"
+            "img": "assets/imgs/Andreia.jpg"
         },
         {
             "nome": "Bruna",
@@ -98,7 +98,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Cleide.jpg"
+            "img": "assets/imgs/Cleide.jpg"
         },
         {
             "nome": "Julius",
@@ -106,7 +106,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Cris.jpg"
+            "img": "assets/imgs/Cris.jpg"
         },
         {
             "nome": "Fernanda",
@@ -114,7 +114,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Dilma.jpg"
+            "img": "assets/imgs/Dilma.jpg"
         },
         {
             "nome": "Vanessa",
@@ -122,7 +122,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Gabriela.jpg"
+            "img": "assets/imgs/Gabriela.jpg"
         },
         {
             "nome": "Gabriela",
@@ -130,7 +130,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Julia.jpg"
+            "img": "assets/imgs/Julia.jpg"
         },
         {
             "nome": "Bianca",
@@ -138,7 +138,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Juliana.jpg"
+            "img": "assets/imgs/Juliana.jpg"
         },
         {
             "nome": "Beatriz",
@@ -146,7 +146,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Maria.jpg"
+            "img": "assets/imgs/Maria.jpg"
         },
         {
             "nome": "Daiane",
@@ -154,7 +154,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Mariana.jpg"
+            "img": "assets/imgs/Mariana.jpg"
         },
         {
             "nome": "Franciele",
@@ -162,7 +162,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Patricia.jpg"
+            "img": "assets/imgs/Patricia.jpg"
         },
         {
             "nome": "Ana",
@@ -170,7 +170,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Sonia.jpg"
+            "img": "assets/imgs/Sonia.jpg"
         },
         {
             "nome": "Rayssa",
@@ -178,7 +178,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Veronica.jpg"
+            "img": "assets/imgs/Veronica.jpg"
         },
         {
             "nome": "Laiane",
@@ -186,7 +186,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Vitoria.jpg"
+            "img": "assets/imgs/Vitoria.jpg"
         },
         {
             "nome": "Clóvis",
@@ -194,7 +194,7 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 5)},
-            "img": "img/Vitor.jpg"
+            "img": "assets/imgs/Vitor.jpg"
         },
         {
             "nome": "Bob",
@@ -202,13 +202,15 @@ const bd = `{
             "avaliacaoParcial": ${random(0, 3)},
             "exercicio": ${random(0, 1)},
             "avaliacaoRegimental": ${random(0, 4)},
-            "img": "img/Fabricio.jpg"
+            "img": "assets/imgs/Fabricio.jpg"
         }
     ]
 }`;
  */
 
+let controle = 0;
 function consultarAlunos() {
+    controle++;
     const alunos = `https://raw.githubusercontent.com/G0dof/learning-javascript/main/aula9/projeto/assets/scripts/alunos.json`;
 
     fetch(alunos).then((response) => {
@@ -218,23 +220,23 @@ function consultarAlunos() {
         });
     });
 }
-
 function exibirAlunos(data) {
-    const objs = data;
+    if (controle == 1) {
+        const objs = data;
 
-    let resultado = document.getElementById("resultado");
+        let resultado = document.getElementById("resultado");
 
-    objs.forEach((element) => {
-        let status = "";
-        media =
-            element.avaliacaoParcial +
-            element.exercicio +
-            element.avaliacaoRegimental;
-        if (media >= 6) status = "<br>Aprovado";
-        else if (media >= 2 && media < 6) status = "<br>Avaliação Final";
-        else if (media < 2) status = "<br>Reprovado";
+        objs.forEach((element) => {
+            let status = "";
+            media =
+                element.avaliacaoParcial +
+                element.exercicio +
+                element.avaliacaoRegimental;
+            if (media >= 6) status = "<br>Aprovado";
+            else if (media >= 2 && media < 6) status = "<br>Avaliação Final";
+            else if (media < 2) status = "<br>Reprovado";
 
-        resultado.innerHTML += `
+            resultado.innerHTML += `
         <div class="container">
             <img width="200" height="200" src="${element.img}">
             <p><b>Nome:</b> ${element.nome}</p>
@@ -245,5 +247,6 @@ function exibirAlunos(data) {
             <p><b>Média:</b> ${Math.round(media)}</p>
             <p><b>Status:</b> ${status}</p>
         </div>`;
-    });
+        });
+    }
 }
