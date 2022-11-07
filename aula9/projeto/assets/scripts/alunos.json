@@ -6,7 +6,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 1,
             "avaliacaoRegimental": 2,
-            "img": "../imgss/Caio.jpg"
+            "img": "imgs/Caio.jpg"
         },
         {
             "nome": "Messi",
@@ -14,7 +14,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 1,
             "avaliacaoRegimental": 5,
-            "img": "../imgss/Joao.jpg"
+            "img": "imgs/Joao.jpg"
         },
         {
             "nome": "Neymar",
@@ -22,7 +22,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 0,
             "avaliacaoRegimental": 4,
-            "img": "../imgss/Felipe.jpg"
+            "img": "imgs/Felipe.jpg"
         },
         {
             "nome": "Roger",
@@ -30,7 +30,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 1,
             "avaliacaoRegimental": 1,
-            "img": "../imgss/Gabriel.jpg"
+            "img": "imgs/Gabriel.jpg"
         },
         {
             "nome": "Iniesta",
@@ -38,7 +38,7 @@
             "avaliacaoParcial": 1,
             "exercicio": 1,
             "avaliacaoRegimental": 1,
-            "img": "../imgss/Tiago.jpg"
+            "img": "imgs/Tiago.jpg"
         },
         {
             "nome": "Silvio",
@@ -46,7 +46,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 0,
             "avaliacaoRegimental": 5,
-            "img": "../imgss/Mario.jpg"
+            "img": "imgs/Mario.jpg"
         },
         {
             "nome": "Andrey",
@@ -54,7 +54,7 @@
             "avaliacaoParcial": 0,
             "exercicio": 0,
             "avaliacaoRegimental": 4,
-            "img": "../imgss/Osmar.jpg"
+            "img": "imgs/Osmar.jpg"
         },
         {
             "nome": "Pedro",
@@ -62,7 +62,7 @@
             "avaliacaoParcial": 0,
             "exercicio": 1,
             "avaliacaoRegimental": 3,
-            "img": "../imgss/Roberto.jpg"
+            "img": "imgs/Roberto.jpg"
         },
         {
             "nome": "Gabriel",
@@ -70,7 +70,7 @@
             "avaliacaoParcial": 0,
             "exercicio": 1,
             "avaliacaoRegimental": 3,
-            "img": "../imgs/Silvio.jpg"
+            "img": "imgs/Silvio.jpg"
         },
         {
             "nome": "Carlos",
@@ -78,7 +78,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 1,
             "avaliacaoRegimental": 0,
-            "img": "../imgss/Valdir.jpg"
+            "img": "imgs/Valdir.jpg"
         },
         {
             "nome": "Lara",
@@ -86,7 +86,7 @@
             "avaliacaoParcial": 0,
             "exercicio": 1,
             "avaliacaoRegimental": 2,
-            "img": "../imgss/Andreia.jpg"
+            "img": "imgs/Andreia.jpg"
         },
         {
             "nome": "Bruna",
@@ -94,7 +94,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 1,
             "avaliacaoRegimental": 0,
-            "img": "../imgs/Cleide.jpg"
+            "img": "imgs/Cleide.jpg"
         },
         {
             "nome": "Julius",
@@ -102,7 +102,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 0,
             "avaliacaoRegimental": 0,
-            "img": "../imgs/Cris.jpg"
+            "img": "imgs/Cris.jpg"
         },
         {
             "nome": "Fernanda",
@@ -110,7 +110,7 @@
             "avaliacaoParcial": 1,
             "exercicio": 1,
             "avaliacaoRegimental": 2,
-            "img": "../imgs/Dilma.jpg"
+            "img": "imgs/Dilma.jpg"
         },
         {
             "nome": "Vanessa",
@@ -118,7 +118,7 @@
             "avaliacaoParcial": 0,
             "exercicio": 0,
             "avaliacaoRegimental": 3,
-            "img": "../imgs/Gabriela.jpg"
+            "img": "imgs/Gabriela.jpg"
         },
         {
             "nome": "Gabriela",
@@ -126,7 +126,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 0,
             "avaliacaoRegimental": 5,
-            "img": "../imgs/Julia.jpg"
+            "img": "imgs/Julia.jpg"
         },
         {
             "nome": "Bianca",
@@ -134,7 +134,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 1,
             "avaliacaoRegimental": 5,
-            "img": "../imgs/Juliana.jpg"
+            "img": "imgs/Juliana.jpg"
         },
         {
             "nome": "Beatriz",
@@ -142,7 +142,7 @@
             "avaliacaoParcial": 1,
             "exercicio": 1,
             "avaliacaoRegimental": 4,
-            "img": "../imgs/Maria.jpg"
+            "img": "imgs/Maria.jpg"
         },
         {
             "nome": "Daiane",
@@ -150,7 +150,7 @@
             "avaliacaoParcial": 0,
             "exercicio": 1,
             "avaliacaoRegimental": 3,
-            "img": "../imgs/Mariana.jpg"
+            "img": "imgs/Mariana.jpg"
         },
         {
             "nome": "Franciele",
@@ -158,7 +158,7 @@
             "avaliacaoParcial": 2,
             "exercicio": 1,
             "avaliacaoRegimental": 2,
-            "img": "../imgs/Patricia.jpg"
+            "img": "imgs/Patricia.jpg"
         },
         {
             "nome": "Ana",
@@ -166,7 +166,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 1,
             "avaliacaoRegimental": 1,
-            "img": "../imgs/Sonia.jpg"
+            "img": "imgs/Sonia.jpg"
         },
         {
             "nome": "Rayssa",
@@ -174,7 +174,7 @@
             "avaliacaoParcial": 1,
             "exercicio": 0,
             "avaliacaoRegimental": 2,
-            "img": "../imgs/Veronica.jpg"
+            "img": "imgs/Veronica.jpg"
         },
         {
             "nome": "Laiane",
@@ -182,7 +182,7 @@
             "avaliacaoParcial": 1,
             "exercicio": 0,
             "avaliacaoRegimental": 3,
-            "img": "../imgs/Vitoria.jpg"
+            "img": "imgs/Vitoria.jpg"
         },
         {
             "nome": "Clóvis",
@@ -190,7 +190,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 0,
             "avaliacaoRegimental": 4,
-            "img": "../imgs/Vitor.jpg"
+            "img": "imgs/Vitor.jpg"
         },
         {
             "nome": "Bob",
@@ -198,7 +198,7 @@
             "avaliacaoParcial": 3,
             "exercicio": 1,
             "avaliacaoRegimental": 5,
-            "img": "../imgs/Fabricio.jpg"
+            "img": "imgs/Fabricio.jpg"
         }
     ]
 }
