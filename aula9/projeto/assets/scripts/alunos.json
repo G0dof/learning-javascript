@@ -35,8 +35,8 @@
         {
             "nome": "Iniesta",
             "rgm": 567,
-            "avaliacaoParcial": 1,
-            "exercicio": 1,
+            "avaliacaoParcial": 0,
+            "exercicio": 0,
             "avaliacaoRegimental": 1,
             "img": "assets/imgs/Tiago.jpg"
         },
@@ -99,7 +99,7 @@
         {
             "nome": "Julius",
             "rgm": 459,
-            "avaliacaoParcial": 2,
+            "avaliacaoParcial": 1,
             "exercicio": 0,
             "avaliacaoRegimental": 0,
             "img": "assets/imgs/Cris.jpg"
@@ -131,9 +131,9 @@
         {
             "nome": "Bianca",
             "rgm": 209,
-            "avaliacaoParcial": 3,
+            "avaliacaoParcial": 0,
             "exercicio": 1,
-            "avaliacaoRegimental": 5,
+            "avaliacaoRegimental": 0,
             "img": "assets/imgs/Juliana.jpg"
         },
         {
@@ -163,8 +163,8 @@
         {
             "nome": "Ana",
             "rgm": 223,
-            "avaliacaoParcial": 3,
-            "exercicio": 1,
+            "avaliacaoParcial": 0,
+            "exercicio": 0,
             "avaliacaoRegimental": 1,
             "img": "assets/imgs/Sonia.jpg"
         },
@@ -187,9 +187,9 @@
         {
             "nome": "Clóvis",
             "rgm": 151,
-            "avaliacaoParcial": 3,
+            "avaliacaoParcial": 0,
             "exercicio": 0,
-            "avaliacaoRegimental": 4,
+            "avaliacaoRegimental": 1,
             "img": "assets/imgs/Vitor.jpg"
         },
         {
