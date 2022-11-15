@@ -15,12 +15,17 @@ function criarBase() {
 
 function criarTabela() {
     dados.forEach((element) => {
-        const tr = document.createElement("tr");
+        let tabela = document.getElementById("corpotabela")
+        let tr = document.createElement("tr")
 
         tr.innerHTML = `
+        <tr>
             <td>${element.nome}</td>
             <td>${element.rgm}</td>
             <td>${element.faltas}</td>
-        `;
+        </tr>
+        `
+
+        tabela.appendChild(tr)
     });
 }
